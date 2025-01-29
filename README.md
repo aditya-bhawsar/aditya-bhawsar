@@ -18,7 +18,7 @@
 
 
 ## 🌐 Socials:
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/aditya-bhawsar" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
     
@@ -30,16 +30,28 @@
   
   <a href="https://leetcode.com/u/user4650Cc" target="_blank">
   <img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png"  height="40" alt="leetcode logo"  /></a>
+
+  <a href="https://medium.com/@aditya.bhawsar.work" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a>
+
+  <a href="https://x.com/AdityaBhawsar_" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+
+  <a href="https://www.instagram.com/adityabhawsar98/?hl=en" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+
+  <a href="https://dev.to/adityabhawsar" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+
 </div>
 
 
 ## 💻 Tech Stack:
-<div align="left">
+<div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,firebase,supabase,fastapi,postman,tensorflow,photoshop,xd,figma,wordpress,vscode,androidstudio,git,github,gitlab,githubactions,cloudflare,vercel,windows,apple,linux,ubuntu&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,dart,flutter,firebase,supabase,gradle,graphql,ruby,idea,ai,gcp,postman,aws,figma,vscode,git,github,githubactions,windows,apple,linux,ubuntu&theme=dark&perline=8" />
   </a> 
 </div> 
-
 
 
 ## 📊 GitHub Stats:
