@@ -55,8 +55,11 @@
 
 
 ## 📊 GitHub Stats:
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-bhawsar&show_icons=true&theme=prussian&locale=en&layout=compact" alt="aditya-bhawsar" />
+</div>  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-bhawsar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-bhawsar&show_icons=true&theme=prussian&hide_border=false&include_all_commits=true&count_private=false" alt="aditya-bhawsar" />
 </div>
 
 ---
